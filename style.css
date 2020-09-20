@@ -1,0 +1,10 @@
+* {
+  font-size: 60px;
+}
+#foo {
+  font-size: 60px;
+  color: red;
+}
+#bar {
+  color: blue;
+}
